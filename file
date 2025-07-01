@@ -1,0 +1,3 @@
+local Blacklisted = {
+	"86.2.4.93"
+}
